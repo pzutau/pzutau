@@ -1,6 +1,7 @@
+[![MasterHead](https://a.sfdcstatic.com/content/dam/www/ocms-backup/assets/images/hub/analytics/bi-software/all-about-big-data-analytics-tools-header.jpg)]
 <h1 align="center">Hello 👋, I'm Paulius Žutautas</h1>
 <h3 align="center">A passionate beginner Data Analyst from Lithuania</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:880/1*lGuOoHqUt4KyFjHxH07k4w.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pzutau&label=Profile%20views&color=0e75b6&style=flat" alt="pzutau" /> </p>
 
