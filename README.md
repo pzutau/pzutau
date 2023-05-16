@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **zutautas.paulius@gmail.com**
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fparkour-the-office-michael-scott-steve-carell-gif-5638695&psig=AOvVaw1KhyxS3Aumxh8sUlJ5GEut&ust=1684340622173000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNi62_Wf-v4CFQAAAAAdAAAAABAR
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/paulius-%c5%beutauta-52747784s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paulius-%c5%beutauta-52747784s" height="30" width="40" /></a>
