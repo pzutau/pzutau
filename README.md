@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Paulius Žutautas</h1>
 <h3 align="center">A passionate beginner Data Analyst from Lithuania</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/xOU6wSDoLOsAAAAC/parkour-the-office.gif">
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/xOU6wSDoLOsAAAAC/parkour-the-office.gif](https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pzutau&label=Profile%20views&color=0e75b6&style=flat" alt="pzutau" /> </p>
 
